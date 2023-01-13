@@ -427,6 +427,12 @@ button.btn.btn__buy{
     border-radius: 0.5rem;
     padding: 0.5rem;
 }
+
+.code a{
+    text-decoration: none;
+    border: none;
+    color: black;
+}
 /* DARK MODE */
 
 body.dark__mode {
